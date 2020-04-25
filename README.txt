@@ -1,6 +1,3 @@
-# codeless-page-builder
-A simple page builder for WordPress based on Kirki Framework
-
 === Codeless Page Builder ===
 Contributors: codelessthemes
 Plugin Name: Codeless Page Builder
