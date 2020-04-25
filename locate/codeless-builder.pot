@@ -1,0 +1,839 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Codeless Page Builder\n"
+"POT-Creation-Date: 2020-01-10 13:06+0100\n"
+"PO-Revision-Date: 2020-01-10 13:05+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: codeless-builder.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: codeless-builder.php:212
+msgid "Kirki Framework"
+msgstr ""
+
+#: codeless-builder.php:220
+msgid "<strong>Codeless Page Builder</strong> plugin is based on "
+msgstr ""
+
+#: codeless-builder.php:331
+msgid "Edit with Codeless Page Builder"
+msgstr ""
+
+#: config/cl-header-elements.php:4
+msgid "Header Builder"
+msgstr ""
+
+#: config/cl-header-elements.php:5 include/core/cl-kirki-setup.php:58
+msgid "Options for adding an additional element on header"
+msgstr ""
+
+#: config/cl-page-elements.php:7 config/cl-page-elements.php:973
+msgid "Row"
+msgstr ""
+
+#: config/cl-page-elements.php:50
+msgid "Type"
+msgstr ""
+
+#: config/cl-page-elements.php:62
+msgid "Full Height Row"
+msgstr ""
+
+#: config/cl-page-elements.php:66 config/cl-page-elements.php:101
+#: config/cl-page-elements.php:172 config/cl-page-elements.php:215
+#: config/cl-page-elements.php:375 config/cl-page-elements.php:591
+#: config/cl-page-elements.php:906 config/cl-page-elements.php:938
+#: config/cl-page-elements.php:1105 config/cl-page-elements.php:1119
+#: config/cl-page-elements.php:1521 config/cl-page-elements.php:1676
+#: config/cl-page-elements.php:1708 config/cl-page-elements.php:1802
+#: config/cl-page-elements.php:2254 config/cl-page-elements.php:2284
+#: config/cl-page-elements.php:2368 config/cl-page-elements.php:2507
+#: config/cl-page-elements.php:2561 config/cl-page-elements.php:2993
+#: config/cl-page-elements.php:3050 config/cl-page-elements.php:3595
+#: config/cl-page-elements.php:3857 config/cl-page-elements.php:3889
+#: config/cl-page-elements.php:4060 config/cl-page-elements.php:4080
+#: config/cl-page-elements.php:4482 config/cl-page-elements.php:4520
+#: config/cl-page-elements.php:4772 config/cl-page-elements.php:5064
+msgid "On"
+msgstr ""
+
+#: config/cl-page-elements.php:67 config/cl-page-elements.php:102
+#: config/cl-page-elements.php:173 config/cl-page-elements.php:216
+#: config/cl-page-elements.php:376 config/cl-page-elements.php:592
+#: config/cl-page-elements.php:907 config/cl-page-elements.php:939
+#: config/cl-page-elements.php:1106 config/cl-page-elements.php:1120
+#: config/cl-page-elements.php:1522 config/cl-page-elements.php:1677
+#: config/cl-page-elements.php:1709 config/cl-page-elements.php:1803
+#: config/cl-page-elements.php:2255 config/cl-page-elements.php:2285
+#: config/cl-page-elements.php:2369 config/cl-page-elements.php:2508
+#: config/cl-page-elements.php:2562 config/cl-page-elements.php:2994
+#: config/cl-page-elements.php:3051 config/cl-page-elements.php:3596
+#: config/cl-page-elements.php:3858 config/cl-page-elements.php:3890
+#: config/cl-page-elements.php:4061 config/cl-page-elements.php:4081
+#: config/cl-page-elements.php:4483 config/cl-page-elements.php:4521
+#: config/cl-page-elements.php:4773 config/cl-page-elements.php:5065
+msgid "Off"
+msgstr ""
+
+#: config/cl-page-elements.php:78
+msgid "Content Position (Fullheight)"
+msgstr ""
+
+#: config/cl-page-elements.php:79
+msgid ""
+"Change position of columns and elements into the fullheight Row. Works on "
+"Fullheight"
+msgstr ""
+
+#: config/cl-page-elements.php:96 config/cl-page-elements.php:114
+msgid "Custom Container Width"
+msgstr ""
+
+#: config/cl-page-elements.php:115
+msgid "Is applied only for media screen (min-width: 1200px)"
+msgstr ""
+
+#: config/cl-page-elements.php:153
+msgid "Columns Gap"
+msgstr ""
+
+#: config/cl-page-elements.php:168
+msgid "Equal Columns Height"
+msgstr ""
+
+#: config/cl-page-elements.php:181 config/cl-page-elements.php:884
+msgid "Responsive Columns"
+msgstr ""
+
+#: config/cl-page-elements.php:187 config/cl-page-elements.php:890
+msgid "Fullwidth Columns"
+msgstr ""
+
+#: config/cl-page-elements.php:188 config/cl-page-elements.php:891
+msgid "Half Width Columns"
+msgstr ""
+
+#: config/cl-page-elements.php:189 config/cl-page-elements.php:892
+msgid "One / Third Width Columns"
+msgstr ""
+
+#: config/cl-page-elements.php:211
+msgid "Disable Row"
+msgstr ""
+
+#: config/cl-page-elements.php:226
+msgid "Row Id"
+msgstr ""
+
+#: config/cl-page-elements.php:227
+msgid "This is useful when you want to add unique identifier to row."
+msgstr ""
+
+#: config/cl-page-elements.php:234 config/cl-page-elements.php:1138
+msgid "Extra Class"
+msgstr ""
+
+#: config/cl-page-elements.php:235
+msgid ""
+"Add extra class identifiers to this row, that can be used for various custom "
+"styles."
+msgstr ""
+
+#: config/cl-page-elements.php:242
+msgid "Anchor Label"
+msgstr ""
+
+#: config/cl-page-elements.php:243
+msgid "Used on Vertical Codeless Slider"
+msgstr ""
+
+#: config/cl-page-elements.php:271
+msgid "Video Background"
+msgstr ""
+
+#: config/cl-page-elements.php:287 config/cl-page-elements.php:3970
+msgid "Video Mp4"
+msgstr ""
+
+#: config/cl-page-elements.php:303 config/cl-page-elements.php:3986
+msgid "Video Webm"
+msgstr ""
+
+#: config/cl-page-elements.php:319 config/cl-page-elements.php:4002
+msgid "Video Ogv"
+msgstr ""
+
+#: config/cl-page-elements.php:337 config/cl-page-elements.php:4021
+msgid "Youtube ID"
+msgstr ""
+
+#: config/cl-page-elements.php:355 config/cl-page-elements.php:4039
+msgid "Vimeo ID"
+msgstr ""
+
+#: config/cl-page-elements.php:371 config/cl-page-elements.php:4055
+msgid "Video Loop"
+msgstr ""
+
+#: config/cl-page-elements.php:489 config/cl-page-elements.php:1283
+#: config/cl-page-elements.php:1996
+msgid "Background Position"
+msgstr ""
+
+#: config/cl-page-elements.php:511
+msgid "Background Size"
+msgstr ""
+
+#: config/cl-page-elements.php:526 config/cl-page-elements.php:1306
+#: config/cl-page-elements.php:2018
+msgid "Background Repeat"
+msgstr ""
+
+#: config/cl-page-elements.php:543 config/cl-page-elements.php:1323
+#: config/cl-page-elements.php:2035
+msgid "Bg. Attachment"
+msgstr ""
+
+#: config/cl-page-elements.php:558 config/cl-page-elements.php:1338
+#: config/cl-page-elements.php:2050
+msgid "Bg. Blend"
+msgstr ""
+
+#: config/cl-page-elements.php:586
+msgid "Parallax"
+msgstr ""
+
+#: config/cl-page-elements.php:587
+msgid "Works with smoothscroll active only."
+msgstr ""
+
+#: config/cl-page-elements.php:617 config/cl-page-elements.php:1383
+#: config/cl-page-elements.php:2095
+msgid "Overlay Backgrund"
+msgstr ""
+
+#: config/cl-page-elements.php:647 config/cl-page-elements.php:1413
+#: config/cl-page-elements.php:2125
+msgid "Overlay Gradient"
+msgstr ""
+
+#: config/cl-page-elements.php:722 config/cl-page-elements.php:1488
+#: config/cl-page-elements.php:2200 config/cl-page-elements.php:3233
+msgid "Border Style"
+msgstr ""
+
+#: config/cl-page-elements.php:771 config/cl-page-elements.php:1552
+#: config/cl-page-elements.php:1818 config/cl-page-elements.php:2625
+#: config/cl-page-elements.php:3117 config/cl-page-elements.php:3464
+#: config/cl-page-elements.php:4135 config/cl-page-elements.php:5369
+msgid "Animation Effect"
+msgstr ""
+
+#: config/cl-page-elements.php:791 config/cl-page-elements.php:1578
+#: config/cl-page-elements.php:1839 config/cl-page-elements.php:2645
+#: config/cl-page-elements.php:3138 config/cl-page-elements.php:3484
+#: config/cl-page-elements.php:4155 config/cl-page-elements.php:5390
+msgid "Animation Delay"
+msgstr ""
+
+#: config/cl-page-elements.php:826 config/cl-page-elements.php:1614
+#: config/cl-page-elements.php:1875 config/cl-page-elements.php:2686
+#: config/cl-page-elements.php:3180 config/cl-page-elements.php:3525
+#: config/cl-page-elements.php:4196 config/cl-page-elements.php:5432
+msgid "Animation Speed"
+msgstr ""
+
+#: config/cl-page-elements.php:868 config/cl-page-elements.php:1656
+msgid "Devices Visibility"
+msgstr ""
+
+#: config/cl-page-elements.php:871 config/cl-page-elements.php:1659
+msgid "Hide on Phones (smaller-than-768px)"
+msgstr ""
+
+#: config/cl-page-elements.php:872 config/cl-page-elements.php:1660
+msgid "Hide on Tables (larger-then-768px)"
+msgstr ""
+
+#: config/cl-page-elements.php:873 config/cl-page-elements.php:1661
+msgid "Hide on Medium Desktops (larger-then-992px) "
+msgstr ""
+
+#: config/cl-page-elements.php:874 config/cl-page-elements.php:1662
+msgid "Hide on Large Desktops (larger-then1200px)"
+msgstr ""
+
+#: config/cl-page-elements.php:901 config/cl-page-elements.php:1671
+msgid "Custom Box Design on max-width:991px (Tablet & Mobile)"
+msgstr ""
+
+#: config/cl-page-elements.php:902 config/cl-page-elements.php:1672
+#: config/cl-page-elements.php:2250
+msgid "Add custom box design (padding etc) on screen sizes max-width:991px"
+msgstr ""
+
+#: config/cl-page-elements.php:933
+msgid "Custom Box Design on max-width:767px (Only Mobile)"
+msgstr ""
+
+#: config/cl-page-elements.php:934 config/cl-page-elements.php:1704
+#: config/cl-page-elements.php:2280
+msgid "Add custom box design (padding etc) on screen sizes max-width:767px"
+msgstr ""
+
+#: config/cl-page-elements.php:986
+msgid "Inner Columns Gap"
+msgstr ""
+
+#: config/cl-page-elements.php:1010 config/cl-page-elements.php:1744
+msgid "Column"
+msgstr ""
+
+#: config/cl-page-elements.php:1022 config/cl-page-elements.php:1759
+msgid "Link Text"
+msgstr ""
+
+#: config/cl-page-elements.php:1023 config/cl-page-elements.php:1760
+#: config/cl-page-elements.php:2335 config/cl-page-elements.php:2750
+#: config/cl-page-elements.php:3286
+msgid "This will be the label for your link"
+msgstr ""
+
+#: config/cl-page-elements.php:1069
+msgid "Horizontal Align"
+msgstr ""
+
+#: config/cl-page-elements.php:1070
+msgid "Horizontal Alignment of elements into this column(container)"
+msgstr ""
+
+#: config/cl-page-elements.php:1085
+msgid "Vertical Align"
+msgstr ""
+
+#: config/cl-page-elements.php:1086
+msgid "Vertical Alignment of elements into this column(container)"
+msgstr ""
+
+#: config/cl-page-elements.php:1100
+msgid "Sticky Column"
+msgstr ""
+
+#: config/cl-page-elements.php:1114
+msgid "Disable Column"
+msgstr ""
+
+#: config/cl-page-elements.php:1130
+msgid "Column Id"
+msgstr ""
+
+#: config/cl-page-elements.php:1131
+msgid "This is useful when you want to add unique identifier to columns."
+msgstr ""
+
+#: config/cl-page-elements.php:1139
+msgid ""
+"Add extra class identifiers to this column, that can be used for various "
+"custom styles."
+msgstr ""
+
+#: config/cl-page-elements.php:1147
+msgid "Column Link"
+msgstr ""
+
+#: config/cl-page-elements.php:1156 config/cl-page-elements.php:3928
+msgid "Specify where to open the custom link "
+msgstr ""
+
+#: config/cl-page-elements.php:1171
+msgid "Effect on hover"
+msgstr ""
+
+#: config/cl-page-elements.php:1516
+msgid "Border Rounded"
+msgstr ""
+
+#: config/cl-page-elements.php:1703 config/cl-page-elements.php:2279
+msgid "Custom Box Design on max-width:767px ( Only Mobile )"
+msgstr ""
+
+#: config/cl-page-elements.php:1797
+msgid "Inline Elements"
+msgstr ""
+
+#: config/cl-page-elements.php:2249
+msgid "Custom Box Design on max-width:991px (Table & Mobile)"
+msgstr ""
+
+#: config/cl-page-elements.php:2321 config/cl-page-elements.php:2334
+#: config/cl-page-elements.php:2749 config/cl-page-elements.php:3285
+msgid "Text"
+msgstr ""
+
+#: config/cl-page-elements.php:2364
+msgid "Custom Typography"
+msgstr ""
+
+#: config/cl-page-elements.php:2449 config/cl-page-elements.php:2933
+msgid "Text Transform"
+msgstr ""
+
+#: config/cl-page-elements.php:2502 config/cl-page-elements.php:2988
+msgid "Custom Max-width:992px"
+msgstr ""
+
+#: config/cl-page-elements.php:2521 config/cl-page-elements.php:3008
+msgid "Custom Font size Max-width:992px"
+msgstr ""
+
+#: config/cl-page-elements.php:2522 config/cl-page-elements.php:3009
+msgid "Add a custom size for this heading for screens smaller than 992px"
+msgstr ""
+
+#: config/cl-page-elements.php:2539 config/cl-page-elements.php:3027
+msgid "Custom Line Height Max-width:992px"
+msgstr ""
+
+#: config/cl-page-elements.php:2540 config/cl-page-elements.php:3028
+msgid ""
+"Add a custom line height for this heading for screens smaller than 992px"
+msgstr ""
+
+#: config/cl-page-elements.php:2556 config/cl-page-elements.php:3045
+msgid "Custom Max-width:768px"
+msgstr ""
+
+#: config/cl-page-elements.php:2575 config/cl-page-elements.php:3065
+msgid "Custom Font size Max-width:768px"
+msgstr ""
+
+#: config/cl-page-elements.php:2576 config/cl-page-elements.php:3066
+msgid "Add a custom size for this heading for screens smaller than 768px"
+msgstr ""
+
+#: config/cl-page-elements.php:2593 config/cl-page-elements.php:3084
+msgid "Custom Line Height Max-width:768px"
+msgstr ""
+
+#: config/cl-page-elements.php:2594 config/cl-page-elements.php:3085
+msgid ""
+"Add a custom line height for this heading for screens smaller than 768px"
+msgstr ""
+
+#: config/cl-page-elements.php:2736
+msgid "Custom Heading"
+msgstr ""
+
+#: config/cl-page-elements.php:2753 config/cl-page-elements.php:2777
+msgid "General"
+msgstr ""
+
+#: config/cl-page-elements.php:2764
+msgid "Heading Tag"
+msgstr ""
+
+#: config/cl-page-elements.php:2770 config/cl-page-elements.php:2801
+#: config/cl-page-elements.php:4903
+msgid "H1"
+msgstr ""
+
+#: config/cl-page-elements.php:2771 config/cl-page-elements.php:2802
+#: config/cl-page-elements.php:4904
+msgid "H2"
+msgstr ""
+
+#: config/cl-page-elements.php:2772 config/cl-page-elements.php:2803
+#: config/cl-page-elements.php:4905
+msgid "H3"
+msgstr ""
+
+#: config/cl-page-elements.php:2773 config/cl-page-elements.php:2804
+#: config/cl-page-elements.php:4906
+msgid "H4"
+msgstr ""
+
+#: config/cl-page-elements.php:2774 config/cl-page-elements.php:2805
+#: config/cl-page-elements.php:4907
+msgid "H5"
+msgstr ""
+
+#: config/cl-page-elements.php:2775 config/cl-page-elements.php:2806
+#: config/cl-page-elements.php:4908
+msgid "H6"
+msgstr ""
+
+#: config/cl-page-elements.php:2794 config/cl-page-elements.php:4897
+msgid "Title Typography"
+msgstr ""
+
+#: config/cl-page-elements.php:2807 config/cl-page-elements.php:4909
+#: config/cl-page-elements.php:5197
+msgid "Custom Font"
+msgstr ""
+
+#: config/cl-page-elements.php:2809 config/cl-page-elements.php:2828
+#: config/cl-page-elements.php:2852 config/cl-page-elements.php:2879
+#: config/cl-page-elements.php:2903 config/cl-page-elements.php:2927
+#: config/cl-page-elements.php:2949 config/cl-page-elements.php:2970
+msgid "Typography"
+msgstr ""
+
+#: config/cl-page-elements.php:3001 config/cl-page-elements.php:3021
+#: config/cl-page-elements.php:3040 config/cl-page-elements.php:3058
+#: config/cl-page-elements.php:3078 config/cl-page-elements.php:3097
+msgid "Responsive"
+msgstr ""
+
+#: config/cl-page-elements.php:3132 config/cl-page-elements.php:3174
+#: config/cl-page-elements.php:3207
+msgid "Animation"
+msgstr ""
+
+#: config/cl-page-elements.php:3227 config/cl-page-elements.php:3248
+#: config/cl-page-elements.php:3258
+msgid "Design"
+msgstr ""
+
+#: config/cl-page-elements.php:3272
+msgid "Button"
+msgstr ""
+
+#: config/cl-page-elements.php:3435
+msgid "Link"
+msgstr ""
+
+#: config/cl-page-elements.php:3443
+msgid "Link Target"
+msgstr ""
+
+#: config/cl-page-elements.php:3447
+msgid "_self"
+msgstr ""
+
+#: config/cl-page-elements.php:3448
+msgid "_blank"
+msgstr ""
+
+#: config/cl-page-elements.php:3559
+msgid "Divider"
+msgstr ""
+
+#: config/cl-page-elements.php:3583
+msgid "Divider Height"
+msgstr ""
+
+#: config/cl-page-elements.php:3584
+msgid "Set the divider height"
+msgstr ""
+
+#: config/cl-page-elements.php:3591
+msgid "Set divider fullwidth"
+msgstr ""
+
+#: config/cl-page-elements.php:3702 config/cl-page-elements.php:4399
+msgid "Select Icon"
+msgstr ""
+
+#: config/cl-page-elements.php:3718
+msgid "Icon Color"
+msgstr ""
+
+#: config/cl-page-elements.php:3735
+msgid "Icon size"
+msgstr ""
+
+#: config/cl-page-elements.php:3779
+msgid "Media"
+msgstr ""
+
+#: config/cl-page-elements.php:3791 config/cl-page-elements.php:4382
+msgid "Media Type"
+msgstr ""
+
+#: config/cl-page-elements.php:3805 config/cl-page-elements.php:4416
+msgid "Upload Image"
+msgstr ""
+
+#: config/cl-page-elements.php:3818
+msgid "Video Mov"
+msgstr ""
+
+#: config/cl-page-elements.php:3819
+msgid "Add this video if you want to use it for live photo"
+msgstr ""
+
+#: config/cl-page-elements.php:3834
+msgid "Position"
+msgstr ""
+
+#: config/cl-page-elements.php:3852
+msgid "Shadow"
+msgstr ""
+
+#: config/cl-page-elements.php:3867 config/cl-page-elements.php:4305
+#: config/cl-page-elements.php:4449
+msgid "Image Size"
+msgstr ""
+
+#: config/cl-page-elements.php:3884
+msgid "Custom Width?"
+msgstr ""
+
+#: config/cl-page-elements.php:3900
+msgid "Set Custom Width"
+msgstr ""
+
+#: config/cl-page-elements.php:3919
+msgid "Custom Link"
+msgstr ""
+
+#: config/cl-page-elements.php:3952
+msgid "Video"
+msgstr ""
+
+#: config/cl-page-elements.php:4075
+msgid "Autoplay"
+msgstr ""
+
+#: config/cl-page-elements.php:4098
+msgid "Video / Embed Height"
+msgstr ""
+
+#: config/cl-page-elements.php:4099
+msgid "Use this only for embed links and for video with image placeholder."
+msgstr ""
+
+#: config/cl-page-elements.php:4244
+msgid "Gallery"
+msgstr ""
+
+#: config/cl-page-elements.php:4259
+msgid "Images"
+msgstr ""
+
+#: config/cl-page-elements.php:4267
+msgid "Items per Row"
+msgstr ""
+
+#: config/cl-page-elements.php:4327
+msgid "Service"
+msgstr ""
+
+#: config/cl-page-elements.php:4433
+msgid "SVG URL"
+msgstr ""
+
+#: config/cl-page-elements.php:4468
+msgid "Title"
+msgstr ""
+
+#: config/cl-page-elements.php:4477
+msgid "Add subtitle"
+msgstr ""
+
+#: config/cl-page-elements.php:4492
+msgid "Subtitle"
+msgstr ""
+
+#: config/cl-page-elements.php:4508
+msgid "Content"
+msgstr ""
+
+#: config/cl-page-elements.php:4515
+msgid "SVG Animation"
+msgstr ""
+
+#: config/cl-page-elements.php:4535
+msgid "Layout Type"
+msgstr ""
+
+#: config/cl-page-elements.php:4536
+msgid "Select layout type of service element"
+msgstr ""
+
+#: config/cl-page-elements.php:4556
+msgid "Align Content and Icon"
+msgstr ""
+
+#: config/cl-page-elements.php:4557
+msgid "Select the align of content and layout of service element"
+msgstr ""
+
+#: config/cl-page-elements.php:4576
+msgid "Icon Wrapper"
+msgstr ""
+
+#: config/cl-page-elements.php:4577
+msgid "Select the type of wrapper around Icon if you want one"
+msgstr ""
+
+#: config/cl-page-elements.php:4599
+msgid "Hover Effect"
+msgstr ""
+
+#: config/cl-page-elements.php:4614
+msgid "Service Link"
+msgstr ""
+
+#: config/cl-page-elements.php:4691
+msgid "Custom Icon Size"
+msgstr ""
+
+#: config/cl-page-elements.php:4692
+msgid "Change Icon size by moving the slider"
+msgstr ""
+
+#: config/cl-page-elements.php:4767
+msgid "Add Shadow"
+msgstr ""
+
+#: config/cl-page-elements.php:4784
+msgid "Custom Wrapper and SVG Size"
+msgstr ""
+
+#: config/cl-page-elements.php:4785
+msgid "Change Wrapper size by moving the slider. Can be used for SVG size too."
+msgstr ""
+
+#: config/cl-page-elements.php:4808
+msgid "Icon and Wrapper Distance"
+msgstr ""
+
+#: config/cl-page-elements.php:4809
+msgid "Icon and Wrapper distance from content"
+msgstr ""
+
+#: config/cl-page-elements.php:4825
+msgid "Distance Title From Top"
+msgstr ""
+
+#: config/cl-page-elements.php:4826
+msgid "Drag to change the distance of the title from top of element"
+msgstr ""
+
+#: config/cl-page-elements.php:4842
+msgid "Distance beetween Title and Content"
+msgstr ""
+
+#: config/cl-page-elements.php:4843
+msgid "Drag to change the distance of the content from Title"
+msgstr ""
+
+#: config/cl-page-elements.php:4858
+msgid "Distance beetween Title and Subtitle"
+msgstr ""
+
+#: config/cl-page-elements.php:4859
+msgid "Drag to change the distance of the title from subtitle"
+msgstr ""
+
+#: config/cl-page-elements.php:5018
+msgid "Title Text Transform"
+msgstr ""
+
+#: config/cl-page-elements.php:5059
+msgid "Content Typography"
+msgstr ""
+
+#: config/cl-page-elements.php:5150
+msgid "Content Text Transform"
+msgstr ""
+
+#: config/cl-page-elements.php:5189
+msgid "Subtitle Typography"
+msgstr ""
+
+#: config/cl-page-elements.php:5196
+msgid "Default"
+msgstr ""
+
+#: config/cl-page-elements.php:5312
+msgid "Subtitle Text Transform"
+msgstr ""
+
+#: include/core/cl-builder-base.php:224
+#, php-format
+msgid "Edit Codeless Builder &#8220;%s&#8221;"
+msgstr ""
+
+#: include/core/cl-builder-base.php:225
+msgid "Edit with Codeless Builder"
+msgstr ""
+
+#: include/core/cl-builder-mapper.php:21 include/core/cl-builder-mapper.php:36
+#, php-format
+msgid "Wrong label for shortcode:%s. Name required"
+msgstr ""
+
+#: include/core/cl-builder-mapper.php:23 include/core/cl-builder-mapper.php:38
+#, php-format
+msgid "Wrong settings anme for shortcode:%s."
+msgstr ""
+
+#: include/core/cl-builder-mapper.php:65
+#, php-format
+msgid "Wrong name for shortcode:%s. Name required"
+msgstr ""
+
+#: include/core/cl-kirki-setup.php:57
+msgid "Page Builder"
+msgstr ""
+
+#: include/core/cl-kirki-setup.php:67
+msgid "Footer Box Design"
+msgstr ""
+
+#: include/core/kirki-setup/codeless_custom_panel.php:27
+#: include/core/kirki-setup/codeless_custom_section.php:32
+msgid "Back"
+msgstr ""
+
+#: include/core/shortcodes/cl-shortcode.php:82
+#, php-format
+msgid ""
+"Template file is missing for `%s` shortcode. Make sure you have `%s` file in "
+"your theme folder."
+msgstr ""
+
+#: include/helpers/helpers.php:52
+msgid "Wrong cl_map object. Base attribute is required"
+msgstr ""
+
+#: include/templates/shortcodes/cl_service.php:31
+msgid "Placeholder Image"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Codeless Page Builder"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://codeless.co/codeless-builder"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Codeless Page Builder is a simple to use Visual (Front-end) Page Builder for "
+"WordPress"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Codeless"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://codeless.co"
+msgstr ""

@@ -1,0 +1,26 @@
+.cl-edit-button{
+	background-color: #4480b3;
+    padding: 12px 18px;
+    margin-top: 20px;
+    display: inline-block;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 600;
+    margin-bottom: 5px;
+    color: #fff;
+    box-shadow: 0px 4px 14px rgba(0,0,0,0.1);
+    -webkit-transition: background-color .2s ease-in-out;
+    transition: background-color .2s ease-in-out;
+}
+
+.cl-edit-button:hover, .cl-edit-button:focus{
+	background-color:#214c71;
+	color:#fff;
+}
+.cl-edit-button:nth-child(3){
+    margin-left:10px;
+}
+
+.wpb_switch-to-front-composer{
+    display:none !important;
+}

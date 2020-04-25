@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'codeless-builder-icons';
+  src: url('fonts/codeless-builder-icons.eot?16292062');
+  src: url('fonts/codeless-builder-icons.eot?16292062#iefix') format('embedded-opentype'),
+       url('fonts/codeless-builder-icons.woff2?16292062') format('woff2'),
+       url('fonts/codeless-builder-icons.woff?16292062') format('woff'),
+       url('fonts/codeless-builder-icons.ttf?16292062') format('truetype'),
+       url('fonts/codeless-builder-icons.svg?16292062#codeless-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'codeless-icons';
+    src: url('../font/codeless-icons.svg?16292062#codeless-icons') format('svg');
+  }
+}
+*/
+ 
+ [class^="cl-builder-icon-"]:before, [class*=" cl-builder-icon-"]:before {
+    font-family: codeless-builder-icons;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    font-variant: normal;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+
+ 
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+ 
+.cl-builder-icon-global:before { content: '\e852'; } /* '' */
+.cl-builder-icon-link3:before { content: '\e869'; } /* '' */
+.cl-builder-icon-paper:before { content: '\e886'; } /* '' */
+.cl-builder-icon-columns2:before { content: '\e8cc'; } /* '' */
+.cl-builder-icon-trash2:before { content: '\e8d1'; } /* '' */
+.cl-builder-icon-plus2:before { content: '\e8d6'; } /* '' */
+.cl-builder-icon-cross:before { content: '\e8d9'; } /* '' */
+.cl-builder-icon-arrow-left:before { content: '\e901'; } /* '' */
+.cl-builder-icon-font:before { content: '\f031'; } /* '' */
+.cl-builder-icon-edit:before { content: '\f044'; } /* '' */
+.cl-builder-icon-chevron-down:before { content: '\f078'; } /* '' */
+.cl-builder-icon-copy:before { content: '\f0c5'; } /* '' */
+.cl-builder-icon-clipboard:before { content: '\f0ea'; } /* '' */
+.cl-builder-icon-quote-left:before { content: '\f10d'; } /* '' */
+.cl-builder-icon-paint-brush:before { content: '\f1fc'; } /* '' */
+.cl-builder-icon-clone:before { content: '\f24d'; } /* '' */
+.cl-builder-icon-move:before { content: '\e8da'; } /* 'î£š' */
